@@ -1,10 +1,6 @@
 // dllmain.cpp : Defines the entry point for the DLL application.
 #include "Common.h"
 
-const double PI = 3.14159265358;
-
-
-
 uint32_t WINAPI Main(HMODULE h_module)
 {
 
